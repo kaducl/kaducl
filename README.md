@@ -13,7 +13,7 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosclobato/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kadulobato._/)
   
-- Tecnologias:
+- **Tecnologias**:
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,c,git,github,sqlite)](https://skillicons.dev)
 
