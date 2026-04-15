@@ -3,7 +3,7 @@
 
 - 🔭 Estudo na Universidade Federal do Maranhão (UFMA)
 
-- 🌱 Atualmente trabalhando mais com **Python, Java e C**
+- 🌱 Atualmente trabalhando mais com **Python e Java**
 
 - 📫 E-mail para contato: **lobatokadu2005@gmail.com.com**
 
