@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou o Carlos Lobato</h1>
+<h1 align="center">Olá, me chamo Carlos</h1>
 <h3 align="center">💻 Estudante de Ciência da Computação | Backend Developer </h3>
 
 ---
